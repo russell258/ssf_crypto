@@ -1,0 +1,26 @@
+{
+    "Type": 100,
+    "Message": "News list successfully returned",
+    "Promoted": [],
+    "Data":
+        {
+            "id": "13623815",
+            "guid": "https://finbold.com/?p=110409",
+            "published_on": 1686239587,
+            "imageurl": "https://images.cryptocompare.com/news/default/finbold.png",
+            "title": "Crypto market fate hangs in the balance as CPI and FED update looms",
+            "url": "https://finbold.com/crypto-market-fate-hangs-in-the-balance-as-cpi-and-fed-update-looms/",
+            "body": "After staging a notable rebound on June 7, cryptocurrency prices briefly fell into the red once again on Thursday, June … Continued The post Crypto market fate hangs in the balance as CPI and FED update looms appeared first on Finbold .",
+            "tags": "Cryptocurrency news|CPI|crypto market|cryptocurrency|Fed|market cap|volatility",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "MARKET",
+            "source_info": {
+                "name": "Finbold",
+                "img": "https://images.cryptocompare.com/news/default/finbold.png",
+                "lang": "EN"
+            },
+            "source": "finbold"
+        }
+}
